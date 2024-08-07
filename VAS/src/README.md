@@ -8,8 +8,8 @@ Was mainly using this to keep track of alt accounts i was using in a game.
 2. Add Account (This adds it to a list).
 3. Add more accounts if you want.
 4. Save -> this will create a csv file and you can choose where it saves to.
-5. Load -> loads in the appropriate csv file
-6. Drop down menu at the top to access different accounts
+5. Load -> loads in the appropriate csv file.
+6. Drop down menu at the top to access different accounts.
 7. Update -> pushes an update to that account.
 
 Otherwise fairly simple gui/program.<br/>
